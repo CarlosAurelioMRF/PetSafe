@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Pet Safe</string>
+    <string name="cadastrar_usuario">Cadastrar Usuário</string>
+    <string name="cliente_string">Cliente</string>
+    <string name="animal_string">Animal</string>
+    <string name="title_activity_usuarios">Usuários</string>
+    <string name="title_activity_add_usuario">Adicionar Usuário</string>
+    <string name="title_activity_add_edit_usuario">Usuário</string>
+    <string name="nome_string">Nome</string>
+    <string name="username_string">Nome de Usuário</string>
+    <string name="senha">Senha</string>
+    <string name="salvar_string">Salvar</string>
+    <string name="search_title">Pesquisar</string>
+    <string name="title_activity_clientes">Clientes</string>
+    <string name="title_activity_add_edit_cliente">Cliente</string>
+    <string name="title_activity_animal">Animais</string>
+    <string name="title_activity_login">Login</string>
+    <string name="string_vazio">Vazio</string>
+    <string name="string_deletar">Deletar o registro?</string>
+    <string name="string_confirmation_delete">Sim, deletar</string>
+    <string name="string_subtitulo">Subtitulo</string>
+    <string name="string_titulo">Titulo</string>
+    <string name="exit_string">Sair</string>
+    <string name="string_donos">Dono do Animal</string>
+    <string-array name="tipoanimal">
+        <item>Cachorro</item>
+        <item>Gato</item>
+        <item>Pássaro</item>
+        <item>Peixe</item>
+        <item>Ramster</item>
+        <item>Porco</item>
+    </string-array>
+</resources>

@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context="com.carlosaurelio.petsafe.MainActivity">
+    <item
+        android:id="@+id/btnCadastroUsuario"
+        android:orderInCategory="100"
+        android:title="@string/cadastrar_usuario"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/btnLogout"
+        android:orderInCategory="100"
+        android:title="@string/exit_string"
+        app:showAsAction="never"/>
+</menu>
